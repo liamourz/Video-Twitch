@@ -27,12 +27,8 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -49,7 +45,27 @@
 
 ### Prerequisites
 
+1.Node.js 
+2.NPM
+
 #### Software :
+
+1. Install VS code Or Intellij
+
+2. Configure Intellij
+In Preferences, search for “javascript” and change language version to “React JSX”
+
+3. Create React App (Do this to setup project)
+
+4 .https://create-react-app.dev/
+
+```sh
+npx create-react-app@latest twitchfe
+cd twitchfe
+npm start
+```
+
+
 
 ### Installation
 
