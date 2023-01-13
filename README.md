@@ -16,8 +16,6 @@
   </p>
 </p>
 
-[![Demo][product-screenshot]]()
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -111,4 +109,3 @@ Project Link: [https://github.com/liamourz/Video-Twitch](https://github.com/gith
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
-[product-screenshot]: images/Starlink.gif
